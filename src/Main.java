@@ -5,12 +5,12 @@ public class Main {
         int year = 2022;
         printLeapYear(year);
 
-        // 2 задание
+        // 2 задание.
         int clientOs = 1;
         int clientDeviceYear = 2010;
         suggestVersion(clientOs, clientDeviceYear);
 
-        // 3 задание
+        // 3 задание.
         int deliDist = 95;
         int countDelivDis = countDelivDey(deliDist);
 
